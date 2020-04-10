@@ -1,2 +1,2 @@
-#define SECURE_SSID "iiNetD9A497"             
-#define SECURE_PASS "6TACN836YHH5E2Y"
+#define SECURE_SSID "ssid-here"             
+#define SECURE_PASS "password-here"
